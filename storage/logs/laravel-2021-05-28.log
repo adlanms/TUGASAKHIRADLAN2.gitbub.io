@@ -1,0 +1,75 @@
+[2021-05-28 12:58:33] local.ERROR: Undefined index: name {"exception":"[object] (ErrorException(code: 0): Undefined index: name at C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', 'C:\\\\xampp\\\\htdocs...', 122, Array)
+#1 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(685): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(123): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(211): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(320): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2021-05-28 12:59:58] local.ERROR: Undefined variable: path {"exception":"[object] (ErrorException(code: 0): Undefined variable: path at C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\xampp\\\\htdocs...', 122, Array)
+#1 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(685): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(124): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(211): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(320): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2021-05-28 13:00:26] local.ERROR: Undefined variable: path {"exception":"[object] (ErrorException(code: 0): Undefined variable: path at C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\xampp\\\\htdocs...', 122, Array)
+#1 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(685): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(124): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(211): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(320): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2021-05-28 13:00:54] local.ERROR: Undefined variable: path {"exception":"[object] (ErrorException(code: 0): Undefined variable: path at C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php:122)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(122): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\xampp\\\\htdocs...', 122, Array)
+#1 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php(685): Illuminate\\Foundation\\PackageManifest->Illuminate\\Foundation\\{closure}(Array, 'packages')
+#2 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(124): Illuminate\\Support\\Collection->mapWithKeys(Object(Closure))
+#3 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(97): Illuminate\\Foundation\\PackageManifest->build()
+#4 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\PackageManifest.php(80): Illuminate\\Foundation\\PackageManifest->getManifest()
+#5 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php(26): Illuminate\\Foundation\\PackageManifest->aliases()
+#6 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(211): Illuminate\\Foundation\\Bootstrap\\RegisterFacades->bootstrap(Object(Illuminate\\Foundation\\Application))
+#7 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(320): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#8 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#9 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#10 {main}
+"} 
+[2021-05-28 13:06:26] local.ERROR: Command "db:serve" is not defined.
+
+Did you mean one of these?
+    db:seed
+    db:wipe
+    make:observer {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"db:serve\" is not defined.
+
+Did you mean one of these?
+    db:seed
+    db:wipe
+    make:observer at C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\symfony\\console\\Application.php:660)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\symfony\\console\\Application.php(237): Symfony\\Component\\Console\\Application->find('db:serve')
+#1 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\symfony\\console\\Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\TUGASAKHIRADLAN\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
